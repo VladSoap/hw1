@@ -1,5 +1,4 @@
 public class Main {
-
     public static void main(String[] args) {
         int timer = 0;
         int word = 0;
@@ -18,6 +17,5 @@ public class Main {
             word++;
         }
         while (word < 3);
-
     }
 }
